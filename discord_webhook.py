@@ -2,7 +2,7 @@ from discord_webhooks import DiscordWebhooks
 
 #Put your discord webhook url here.
 
-webhook_url = ''
+webhook_url = 'https://discord.com/api/webhooks/776657594646396979/Io8k2WsLgEYwQ1wZrdOYfCFuramn8H8X30r7YZxrmNmZI4gupChK7hCSb-0NBqwfCoyv'
 
 
 def send_msg(class_name,status,start_time,end_time):
